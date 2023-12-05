@@ -1,23 +1,4 @@
 
-# WordPress Getting Started
-
-This is a project where we will set up our own WordPress project as well as will develop a site too.
-
-### First thing First:
-
-Download XAMPP, it's used for hosting sites locally. 
-
-[XAMPP Download Link](https://www.apachefriends.org/download.html)
-
-### What to do next?
-
-Downlod Wordpress from Wordpress official site. 
-
-[Click here](https://wordpress.org/download/)
-
-
-
-
 ## Getting into the Project
 
 **Step - 1** : Open the XAMPP directory
@@ -40,5 +21,16 @@ Downlod Wordpress from Wordpress official site.
  * Username : root
  * Password : BLANK / NULL	
 	
+
+## Getting to the server
+
+- I encountered an issue where wp-config file, I wasn't able to find it. You can find it here:   `htdocs/wordpress/`
+
+
+
+
+
+
+
 
 
